@@ -1,12 +1,12 @@
 # _Demo Website_
 
-#### _Practice Website to demo HTML and CSS understanding, 2020-10-26_
+#### _Practice Website to demo Git Merging and Branching, 2020-10-26_
 
 #### By _**Ash Porter (KirbyPaint)**_
 
 ## Description
 
-_The purpose of this website is to demonstrate an understanding of basic HTML and CSS, as well as Git branching and merging_
+_The purpose of this website is to demonstrate an understanding of Git merging and branching._
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ _The purpose of this website is to demonstrate an understanding of basic HTML an
 
 ## Known Bugs
 
-_CSS not loading_
+_None as of 2020-10-26_
 
 ## Support and contact details
 
