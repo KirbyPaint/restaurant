@@ -26,6 +26,6 @@ _HTML, CSS_
 
 ### License
 
-*GNU Public License*
+*GNU Public Licenses*
 
 Copyright (c) 2020 **_KirbyPaint_**
